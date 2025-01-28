@@ -1,8 +1,8 @@
-### 👋 About Me
+### 📌 About Me
 <hr>
 
-<p style="margin-bottom: 5px;">Hi there :) I'm a <b>Frontend Developer</b> with 3 years of experience.</p>
-<p style="margin-bottom: 5px;">I specialize in building web applications and web-based solutions.</p>
+<p style="margin-bottom: 5px;">👋 Hi there :) I'm a <b>Frontend Developer</b> with 3 years of experience.</p>
+<p style="margin-bottom: 5px;">🖥️ I specialize in building web applications and web-based solutions.</p>
 
 <br>
 
@@ -21,17 +21,10 @@
 
 <br><br>
 
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td style="border: none;">
-      <a href="https://github.com/yeeun98/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeeun98&layout=compact" alt="Top Langs" />
-      </a>
-    </td>
-    <td style="border: none;">
-      <a href="https://solved.ac/qjspdl">
-        <img src="http://mazassumnida.wtf/api/generate_badge?boj=qjspdl" alt="Solved.ac 프로필" />
-      </a>
-    </td>
-  </tr>
-</table>
+
+### 📊 Algorithm & Language Stats
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=qjspdl" alt="Solved.ac" style="width: 51%; max-width: 300px; height: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeeun98&layout=compact" alt="Top Langs" style="width: 45%; max-width: 300px; height: auto;" />
+  </div>
+</div>
