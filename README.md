@@ -4,6 +4,8 @@
 <p style="margin-bottom: 5px;">👋 Hi there :) I'm a <b>Frontend Developer</b> with 3 years of experience.</p>
 <p style="margin-bottom: 5px;">🖥️ I specialize in building web applications and web-based solutions.</p>
 
+<br/>
+
 ### 👩‍💻 Tech Stack
 <hr>
 
@@ -18,6 +20,8 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
+
+<br/>
 
 ### 📊 Algorithm & Language Stats
 <hr>
