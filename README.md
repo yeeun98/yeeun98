@@ -22,11 +22,3 @@
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
 
 <br/>
-
-### 📊 Algorithm & Language Stats
-<hr>
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=qjspdl" alt="Solved.ac" style="width: 51%; max-width: 300px; height: auto;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeeun98&layout=compact" alt="Top Langs" style="width: 45%; max-width: 300px; height: auto;" />
-</div>
